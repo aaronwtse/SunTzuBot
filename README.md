@@ -12,5 +12,5 @@ A discord bot that says random Sun Tzu quotes, along with some inside jokes with
 ## Languages 
 Python
 
-![screenshot](Screenshot 2024-10-15 003247.png)
+![Model](https://github.com/aaronwtse/SunTzuBot/blob/29947d4a3e7e712140fd7c4820c1db79beb4abbc/Screenshot%202024-10-15%20003247.png)
   
